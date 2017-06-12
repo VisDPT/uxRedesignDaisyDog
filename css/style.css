@@ -40,6 +40,7 @@ footer {
 /*========================*/
 
 #maincontent{
-  background-image: url("../img/daisydog.jpg");
+  background-image: url("../img/flowerdog.jpg");
   width: 100%;
+    background-position: center;
 }
